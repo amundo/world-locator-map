@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "title": "Names of countries in French and English",
+    "note": "These translations were extracted from Google Translate ('english') and ChatGPT ('chat'). ChatGPT is clearly better, see Czech Republic, Myanmar, El Salvador, French Guiana, Guinea-Bissau, Equatorial Guinea, Central African Republic, Democratic Republic of the Congo (Zaire), Rwanda, Namibia, Swaziland"
+  },
+  "regions": [
+    {
+      "french": "Europe",
+      "english": "Europe"
+    },
+    {
+      "french": "Ex-Yougoslavie",
+      "english": "Former Yugoslavia"
+    },
+    {
+      "french": "Ex-URSS",
+      "english": "Former USSR"
+    },
+    {
+      "french": "Benelux",
+      "english": "Benelux"
+    },
+    {
+      "french": "Scandinavie",
+      "english": "Scandinavia"
+    },
+    {
+      "french": "Asie",
+      "english": "Asia"
+    },
+    {
+      "french": "Proche orient",
+      "english": "Middle East"
+    },
+    {
+      "french": "Peninsule Arabe",
+      "english": "Arabian Peninsula"
+    },
+    {
+      "french": "Moyen orient",
+      "english": "Middle East"
+    },
+    {
+      "french": "Indochine",
+      "english": "Indochina"
+    },
+    {
+      "french": "Iles oceaniennes",
+      "english": "Oceania Islands"
+    },
+    {
+      "french": "Extreme orient",
+      "english": "Far East"
+    },
+    {
+      "french": "Oceanie",
+      "english": "Oceania"
+    },
+    {
+      "french": "Amerique du Nord",
+      "english": "North America"
+    },
+    {
+      "french": "Amerique centrale",
+      "english": "Central America"
+    },
+    {
+      "french": "Iles antillaises",
+      "english": "West Indies"
+    },
+    {
+      "french": "Amerique de Sud",
+      "english": "South America"
+    },
+    {
+      "french": "Mahgreb",
+      "english": "Maghreb"
+    },
+    {
+      "french": "Sahara",
+      "english": "Sahara"
+    },
+    {
+      "french": "Soudan",
+      "english": "Sudan"
+    },
+    {
+      "french": "Soudan du Sud",
+      "english": "South Sudan"
+    },
+    {
+      "french": "Corne",
+      "english": "Horn of Africa"
+    },
+    {
+      "french": "Afrique guineene",
+      "english": "Guinean Africa"
+    },
+    {
+      "french": "Afrique centrale",
+      "english": "Central Africa"
+    },
+    {
+      "french": "Afrique des lacs",
+      "english": "African Great Lakes Region"
+    },
+    {
+      "french": "Afrique australe",
+      "english": "Southern Africa"
+    }
+  ]
+}

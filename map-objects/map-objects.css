@@ -1,0 +1,40 @@
+body, html {
+  height: 100%;
+  overflow-y: auto;
+}
+
+.hover {
+  fill: orange;
+}
+
+.selected {
+  fill: pink;
+}
+
+
+map-objects {
+  height:100%;
+  background-color: gainsboro;
+  display: grid;
+  grid-template-rows: 2fr 1fr;
+}
+
+map-objects .map-pane {
+  background: white;
+  border:1px solid;
+  overflow: auto;
+}
+
+map-objects .object-pane {
+  overflow-y: scroll;
+  height: 100%;
+  column-count: 4;
+  column-gap: 1em;
+}
+
+
+img, svg {
+  max-width: 100%;
+  object-fit: contain;
+  overflow: scroll;
+}

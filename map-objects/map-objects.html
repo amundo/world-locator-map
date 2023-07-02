@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>  
+  <title>map-objects</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="map-objects.css">
+
+</head>
+<body>
+
+    <map-objects objects-src="ucla-languages.json"></map-objects>  
+
+<script type="module">
+import {MapObjects} from './MapObjects.js'
+
+window.MapObjects = document.querySelector('map-objects')
+</script>
+
+</body>
+</html>

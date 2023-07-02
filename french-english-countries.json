@@ -1,0 +1,848 @@
+{
+  "metadata": {
+    "title": "Names of countries in French and English",
+    "note": "These translations were extracted from Google Translate ('english') and ChatGPT ('chat'). ChatGPT is clearly better, see Czech Republic, Myanmar, El Salvador, French Guiana, Guinea-Bissau, Equatorial Guinea, Central African Republic, Democratic Republic of the Congo (Zaire), Rwanda, Namibia, Swaziland"
+  },
+  "countries": [
+    {
+      "french": "Montenegro",
+      "english": "Montenegro",
+      "chat": "Montenegro"
+    },
+    {
+      "french": "Slovenie",
+      "english": "Slovenia",
+      "chat": "Slovenia"
+    },
+    {
+      "french": "Croatie",
+      "english": "Croatia",
+      "chat": "Croatia"
+    },
+    {
+      "french": "Serbie",
+      "english": "Serbia",
+      "chat": "Serbia"
+    },
+    {
+      "french": "Macedoine",
+      "english": "Macedonia",
+      "chat": "Macedonia"
+    },
+    {
+      "french": "Bosnie Herzegovine",
+      "english": "Bosnia Herzegovina",
+      "chat": "Bosnia Herzegovina"
+    },
+    {
+      "french": "Albanie",
+      "english": "Albania",
+      "chat": "Albania"
+    },
+    {
+      "french": "Lituanie",
+      "english": "Lithuania",
+      "chat": "Lithuania"
+    },
+    {
+      "french": "Estonie",
+      "english": "Estonia",
+      "chat": "Estonia"
+    },
+    {
+      "french": "Lettonie",
+      "english": "Latvia",
+      "chat": "Latvia"
+    },
+    {
+      "french": "Ukraine",
+      "english": "Ukraine",
+      "chat": "Ukraine"
+    },
+    {
+      "french": "Bielorussie",
+      "english": "Belarus",
+      "chat": "Belarus"
+    },
+    {
+      "french": "Moldavie",
+      "english": "Moldova",
+      "chat": "Moldova"
+    },
+    {
+      "french": "Italie",
+      "english": "Italy",
+      "chat": "Italy"
+    },
+    {
+      "french": "Pologne",
+      "english": "Poland",
+      "chat": "Poland"
+    },
+    {
+      "french": "Slovaquie",
+      "english": "Slovakia",
+      "chat": "Slovakia"
+    },
+    {
+      "french": "Rep Tcheque",
+      "english": "Czech Rep",
+      "chat": "Czech Republic"
+    },
+    {
+      "french": "Hongrie",
+      "english": "Hungary",
+      "chat": "Hungary"
+    },
+    {
+      "french": "Roumanie",
+      "english": "Romania",
+      "chat": "Romania"
+    },
+    {
+      "french": "Bulgarie",
+      "english": "Bulgaria",
+      "chat": "Bulgaria"
+    },
+    {
+      "french": "Grece",
+      "english": "Greece",
+      "chat": "Greece"
+    },
+    {
+      "french": "Royaume Uni",
+      "english": "United Kingdom",
+      "chat": "United Kingdom"
+    },
+    {
+      "french": "Irlande",
+      "english": "Ireland",
+      "chat": "Ireland"
+    },
+    {
+      "french": "Islande",
+      "english": "Iceland",
+      "chat": "Iceland"
+    },
+    {
+      "french": "Espagne",
+      "english": "Spain",
+      "chat": "Spain"
+    },
+    {
+      "french": "Portugal",
+      "english": "Portugal",
+      "chat": "Portugal"
+    },
+    {
+      "french": "Danemark",
+      "english": "Denmark",
+      "chat": "Denmark"
+    },
+    {
+      "french": "Groenland (Danemark)",
+      "english": "Greenland (Denmark)",
+      "chat": "Greenland (Denmark)"
+    },
+    {
+      "french": "Allemagne",
+      "english": "Germany",
+      "chat": "Germany"
+    },
+    {
+      "french": "Suisse",
+      "english": "Switzerland",
+      "chat": "Switzerland"
+    },
+    {
+      "french": "Autriche",
+      "english": "Austria",
+      "chat": "Austria"
+    },
+    {
+      "french": "France",
+      "english": "France",
+      "chat": "France"
+    },
+    {
+      "french": "Pays-Bas",
+      "english": "Netherlands",
+      "chat": "Netherlands"
+    },
+    {
+      "french": "Belgique",
+      "english": "Belgium",
+      "chat": "Belgium"
+    },
+    {
+      "french": "Luxembourg",
+      "english": "Luxembourg",
+      "chat": "Luxembourg"
+    },
+    {
+      "french": "Suede",
+      "english": "Sweden",
+      "chat": "Sweden"
+    },
+    {
+      "french": "Norvege",
+      "english": "Norway",
+      "chat": "Norway"
+    },
+    {
+      "french": "Finlande",
+      "english": "Finland",
+      "chat": "Finland"
+    },
+    {
+      "french": "Russie",
+      "english": "Russia",
+      "chat": "Russia"
+    },
+    {
+      "french": "Turquie",
+      "english": "Turkey",
+      "chat": "Turkey"
+    },
+    {
+      "french": "Chypre",
+      "english": "Cyprus",
+      "chat": "Cyprus"
+    },
+    {
+      "french": "Georgie",
+      "english": "Georgia",
+      "chat": "Georgia"
+    },
+    {
+      "french": "Syrie",
+      "english": "Syria",
+      "chat": "Syria"
+    },
+    {
+      "french": "Jordanie",
+      "english": "Jordan",
+      "chat": "Jordan"
+    },
+    {
+      "french": "Liban",
+      "english": "Lebanon",
+      "chat": "Lebanon"
+    },
+    {
+      "french": "Israel",
+      "english": "Israel",
+      "chat": "Israel"
+    },
+    {
+      "french": "Koweit",
+      "english": "Kuwait",
+      "chat": "Kuwait"
+    },
+    {
+      "french": "Arabie Saoudite",
+      "english": "Saudi Arabia",
+      "chat": "Saudi Arabia"
+    },
+    {
+      "french": "Emirats Arabes Unis",
+      "english": "United Arab Emirates",
+      "chat": "United Arab Emirates"
+    },
+    {
+      "french": "Qatar",
+      "english": "Qatar",
+      "chat": "Qatar"
+    },
+    {
+      "french": "Yemen",
+      "english": "Yemen",
+      "chat": "Yemen"
+    },
+    {
+      "french": "Oman",
+      "english": "Oman",
+      "chat": "Oman"
+    },
+    {
+      "french": "Irak",
+      "english": "Iraq",
+      "chat": "Iraq"
+    },
+    {
+      "french": "Iran",
+      "english": "Iran",
+      "chat": "Iran"
+    },
+    {
+      "french": "Armenie",
+      "english": "Armenia",
+      "chat": "Armenia"
+    },
+    {
+      "french": "Kazakhstan",
+      "english": "Kazakhstan",
+      "chat": "Kazakhstan"
+    },
+    {
+      "french": "Ouzbekistan",
+      "english": "Uzbekistan",
+      "chat": "Uzbekistan"
+    },
+    {
+      "french": "Azerbaidjan",
+      "english": "Azerbaijan",
+      "chat": "Azerbaijan"
+    },
+    {
+      "french": "Turkmenistan",
+      "english": "Turkmenistan",
+      "chat": "Turkmenistan"
+    },
+    {
+      "french": "Tadjikistan",
+      "english": "Tajikistan",
+      "chat": "Tajikistan"
+    },
+    {
+      "french": "Kirghizistan",
+      "english": "Kyrgyzstan",
+      "chat": "Kyrgyzstan"
+    },
+    {
+      "french": "Afghanistan",
+      "english": "Afghanistan",
+      "chat": "Afghanistan"
+    },
+    {
+      "french": "Pakistan",
+      "english": "Pakistan",
+      "chat": "Pakistan"
+    },
+    {
+      "french": "Inde",
+      "english": "India",
+      "chat": "India"
+    },
+    {
+      "french": "Sri Lanka",
+      "english": "Sri Lanka",
+      "chat": "Sri Lanka"
+    },
+    {
+      "french": "Nepal",
+      "english": "Nepal",
+      "chat": "Nepal"
+    },
+    {
+      "french": "Bhoutan",
+      "english": "Bhutan",
+      "chat": "Bhutan"
+    },
+    {
+      "french": "Bangladesh",
+      "english": "Bangladesh",
+      "chat": "Bangladesh"
+    },
+    {
+      "french": "Cambodge",
+      "english": "Cambodia",
+      "chat": "Cambodia"
+    },
+    {
+      "french": "Birmanie",
+      "english": "Burma",
+      "chat": "Myanmar"
+    },
+    {
+      "french": "Viet-Nam",
+      "english": "Vietnam",
+      "chat": "Vietnam"
+    },
+    {
+      "french": "Malaisie",
+      "english": "Malaysia",
+      "chat": "Malaysia"
+    },
+    {
+      "french": "Thailande",
+      "english": "Thailand",
+      "chat": "Thailand"
+    },
+    {
+      "french": "Laos",
+      "english": "Laos",
+      "chat": "Laos"
+    },
+    {
+      "french": "Brunei",
+      "english": "Brunei",
+      "chat": "Brunei"
+    },
+    {
+      "french": "Indonesie",
+      "english": "Indonesia",
+      "chat": "Indonesia"
+    },
+    {
+      "french": "Philippines",
+      "english": "Philippines",
+      "chat": "Philippines"
+    },
+    {
+      "french": "Nouvelle Guinee",
+      "english": "New Guinea",
+      "chat": "New Guinea"
+    },
+    {
+      "french": "Mongolie",
+      "english": "Mongolia",
+      "chat": "Mongolia"
+    },
+    {
+      "french": "Chine",
+      "english": "China",
+      "chat": "China"
+    },
+    {
+      "french": "Japon",
+      "english": "Japan",
+      "chat": "Japan"
+    },
+    {
+      "french": "Taiwan",
+      "english": "Taiwan",
+      "chat": "Taiwan"
+    },
+    {
+      "french": "Coree du Nord",
+      "english": "North Korea",
+      "chat": "North Korea"
+    },
+    {
+      "french": "Coree de Sud",
+      "english": "South Korea",
+      "chat": "South Korea"
+    },
+    {
+      "french": "Australie",
+      "english": "Australia",
+      "chat": "Australia"
+    },
+    {
+      "french": "Nouvelle-zelande",
+      "english": "New Zealand",
+      "chat": "New Zealand"
+    },
+    {
+      "french": "Canada",
+      "english": "Canada",
+      "chat": "Canada"
+    },
+    {
+      "french": "USA",
+      "english": "USA",
+      "chat": "USA"
+    },
+    {
+      "french": "Mexique",
+      "english": "Mexico",
+      "chat": "Mexico"
+    },
+    {
+      "french": "Cuba",
+      "english": "Cuba",
+      "chat": "Cuba"
+    },
+    {
+      "french": "Jamaique",
+      "english": "Jamaica",
+      "chat": "Jamaica"
+    },
+    {
+      "french": "Haiti",
+      "english": "Haiti",
+      "chat": "Haiti"
+    },
+    {
+      "french": "Rep Dominicaine",
+      "english": "Dominican Republic",
+      "chat": "Dominican Republic"
+    },
+    {
+      "french": "Trinite et Tobago",
+      "english": "Trinidad and Tobago",
+      "chat": "Trinidad and Tobago"
+    },
+    {
+      "french": "Porto Rico",
+      "english": "Puerto Rico",
+      "chat": "Puerto Rico"
+    },
+    {
+      "french": "Costa Rica",
+      "english": "Costa Rica",
+      "chat": "Costa Rica"
+    },
+    {
+      "french": "Belize",
+      "english": "Belize",
+      "chat": "Belize"
+    },
+    {
+      "french": "Guatemala",
+      "english": "Guatemala",
+      "chat": "Guatemala"
+    },
+    {
+      "french": "Honduras",
+      "english": "Honduras",
+      "chat": "Honduras"
+    },
+    {
+      "french": "Salvador",
+      "english": "Salvador",
+      "chat": "El Salvador"
+    },
+    {
+      "french": "Nicaragua",
+      "english": "Nicaragua",
+      "chat": "Nicaragua"
+    },
+    {
+      "french": "Panama",
+      "english": "Panama",
+      "chat": "Panama"
+    },
+    {
+      "french": "Colombie",
+      "english": "Colombia",
+      "chat": "Colombia"
+    },
+    {
+      "french": "Venezuela",
+      "english": "Venezuela",
+      "chat": "Venezuela"
+    },
+    {
+      "french": "Guyane francaise",
+      "english": "French Guyana",
+      "chat": "French Guiana"
+    },
+    {
+      "french": "Surinam",
+      "english": "Suriname",
+      "chat": "Suriname"
+    },
+    {
+      "french": "Guyana",
+      "english": "Guyana",
+      "chat": "Guyana"
+    },
+    {
+      "french": "Equateur",
+      "english": "Ecuador",
+      "chat": "Ecuador"
+    },
+    {
+      "french": "Perou",
+      "english": "Peru",
+      "chat": "Peru"
+    },
+    {
+      "french": "Bresil",
+      "english": "Brazil",
+      "chat": "Brazil"
+    },
+    {
+      "french": "Bolivie",
+      "english": "Bolivia",
+      "chat": "Bolivia"
+    },
+    {
+      "french": "Paraguay",
+      "english": "Paraguay",
+      "chat": "Paraguay"
+    },
+    {
+      "french": "Uruguay",
+      "english": "Uruguay",
+      "chat": "Uruguay"
+    },
+    {
+      "french": "Chili",
+      "english": "Chile",
+      "chat": "Chile"
+    },
+    {
+      "french": "Argentine",
+      "english": "Argentina",
+      "chat": "Argentina"
+    },
+    {
+      "french": "Maroc",
+      "english": "Morocco",
+      "chat": "Morocco"
+    },
+    {
+      "french": "Algerie",
+      "english": "Algeria",
+      "chat": "Algeria"
+    },
+    {
+      "french": "Tunisie",
+      "english": "Tunisia",
+      "chat": "Tunisia"
+    },
+    {
+      "french": "Egypte",
+      "english": "Egypt",
+      "chat": "Egypt"
+    },
+    {
+      "french": "Soudan (contour)",
+      "english": "Sudan (outline)",
+      "chat": "Sudan (outline)"
+    },
+    {
+      "french": "Soudan: region d'Abiye (taille)",
+      "english": "Sudan: Abiye region (size)",
+      "chat": "Sudan: Abiye region (size)"
+    },
+    {
+      "french": "Soudan du Sud (contour)",
+      "english": "South Sudan (outline)",
+      "chat": "South Sudan (outline)"
+    },
+    {
+      "french": "Soudan du Sud: Parc national de Radom (taille)",
+      "english": "South Sudan: Radom National Park (size)",
+      "chat": "South Sudan: Radom National Park (size)"
+    },
+    {
+      "french": "Mali",
+      "english": "Mali",
+      "chat": "Mali"
+    },
+    {
+      "french": "Lybie",
+      "english": "Libya",
+      "chat": "Libya"
+    },
+    {
+      "french": "Sahara occidental",
+      "english": "Western Sahara",
+      "chat": "Western Sahara"
+    },
+    {
+      "french": "Mauritanie",
+      "english": "Mauritania",
+      "chat": "Mauritania"
+    },
+    {
+      "french": "Burkina Faso",
+      "english": "Burkina Faso",
+      "chat": "Burkina Faso"
+    },
+    {
+      "french": "Niger",
+      "english": "Niger",
+      "chat": "Niger"
+    },
+    {
+      "french": "Tchad",
+      "english": "Chad",
+      "chat": "Chad"
+    },
+    {
+      "french": "Erythree",
+      "english": "Eritrea",
+      "chat": "Eritrea"
+    },
+    {
+      "french": "Djibouti",
+      "english": "Djibouti",
+      "chat": "Djibouti"
+    },
+    {
+      "french": "Ethiopie",
+      "english": "Ethiopia",
+      "chat": "Ethiopia"
+    },
+    {
+      "french": "Somalie",
+      "english": "Somalia",
+      "chat": "Somalia"
+    },
+    {
+      "french": "Gambie",
+      "english": "Gambia",
+      "chat": "Gambia"
+    },
+    {
+      "french": "Senegal",
+      "english": "Senegal",
+      "chat": "Senegal"
+    },
+    {
+      "french": "Guinee Bisau",
+      "english": "Guinea Bisau",
+      "chat": "Guinea-Bissau"
+    },
+    {
+      "french": "Guinee",
+      "english": "Guinea",
+      "chat": "Guinea"
+    },
+    {
+      "french": "Sierra Leone",
+      "english": "Sierra Leone",
+      "chat": "Sierra Leone"
+    },
+    {
+      "french": "Liberia",
+      "english": "Liberia",
+      "chat": "Liberia"
+    },
+    {
+      "french": "Cote d'Ivoire",
+      "english": "Ivory Coast",
+      "chat": "Ivory Coast"
+    },
+    {
+      "french": "Ghana",
+      "english": "Ghana",
+      "chat": "Ghana"
+    },
+    {
+      "french": "Togo",
+      "english": "Togo",
+      "chat": "Togo"
+    },
+    {
+      "french": "Benin",
+      "english": "Benin",
+      "chat": "Benin"
+    },
+    {
+      "french": "Nigeria",
+      "english": "Nigeria",
+      "chat": "Nigeria"
+    },
+    {
+      "french": "Cameroun",
+      "english": "Cameroon",
+      "chat": "Cameroon"
+    },
+    {
+      "french": "Guinee Eq",
+      "english": "Guinea Eq",
+      "chat": "Equatorial Guinea"
+    },
+    {
+      "french": "Rep Centrafricaine",
+      "english": "Central African Rep",
+      "chat": "Central African Republic"
+    },
+    {
+      "french": "Gabon",
+      "english": "Gabon",
+      "chat": "Gabon"
+    },
+    {
+      "french": "Congo",
+      "english": "Congo",
+      "chat": "Congo"
+    },
+    {
+      "french": "Rep dem du Congo (Zaire)",
+      "english": "Dem Rep of Congo (Zaire)",
+      "chat": "Democratic Republic of the Congo (Zaire)"
+    },
+    {
+      "french": "Zambie",
+      "english": "Zambia",
+      "chat": "Zambia"
+    },
+    {
+      "french": "Angola",
+      "english": "Angola",
+      "chat": "Angola"
+    },
+    {
+      "french": "Ouganda",
+      "english": "Uganda",
+      "chat": "Uganda"
+    },
+    {
+      "french": "Ruanda",
+      "english": "Ruanda",
+      "chat": "Rwanda"
+    },
+    {
+      "french": "Burundi",
+      "english": "Burundi",
+      "chat": "Burundi"
+    },
+    {
+      "french": "Kenya",
+      "english": "Kenya",
+      "chat": "Kenya"
+    },
+    {
+      "french": "Tanzanie",
+      "english": "Tanzania",
+      "chat": "Tanzania"
+    },
+    {
+      "french": "Nanibie",
+      "english": "Nanibia",
+      "chat": "Namibia"
+    },
+    {
+      "french": "Malawi",
+      "english": "Malawi",
+      "chat": "Malawi"
+    },
+    {
+      "french": "Lesotho",
+      "english": "Lesotho",
+      "chat": "Lesotho"
+    },
+    {
+      "french": "Mozambique",
+      "english": "Mozambique",
+      "chat": "Mozambique"
+    },
+    {
+      "french": "Madagascar",
+      "english": "Madagascar",
+      "chat": "Madagascar"
+    },
+    {
+      "french": "Botswana",
+      "english": "Botswana",
+      "chat": "Botswana"
+    },
+    {
+      "french": "Zimbabwe",
+      "english": "Zimbabwe",
+      "chat": "Zimbabwe"
+    },
+    {
+      "french": "Zwaziland",
+      "english": "Zwaziland",
+      "chat": "Swaziland"
+    },
+    {
+      "french": "Afrique de Sud",
+      "english": "South Africa",
+      "chat": "South Africa"
+    },
+    {
+      "french": "Antarctique",
+      "english": "Antarctica",
+      "chat": "Antarctica"
+    }
+  ]
+}
